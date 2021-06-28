@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Size Titulo-->
+    <dimen name="dm_titulo">18sp</dimen>
+    <!--Size Sub Titulo-->
+    <dimen name="dm_sub_titulo">16sp</dimen>
+    <!-- Size Texto do App-->
+    <dimen name="dm_normal">14sp</dimen>
+    <!-- Size Texto comentário App-->
+    <dimen name="dm_cometario">9sp</dimen>
+    <!-- Size Texto rodape-->
+    <dimen name="dm_radape">10sp</dimen>
+    <!-- Size Layout Margin-->
+    <dimen name="dm_layout_margen">16sp</dimen>
+    <dimen name="dm_layout_margen_top">16sp</dimen>
+    <dimen name="dm_layout_margen_end">16sp</dimen>
+    <!-- Size Layout Guideline-->
+    <dimen name="dm_layout_guideline">32sp</dimen>
+</resources>

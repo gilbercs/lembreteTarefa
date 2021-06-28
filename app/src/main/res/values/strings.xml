@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lembrete Tarefa Santander</string>
+    <string name="titulo_criar_tarefa">Criar Tarefa</string>
+    <!--Titulo-->
+    <string name="txt_titulo_tarefa">Tarefa de Hoje</string>
+    <string name="todo">adicionar tarefa</string>
+    <string name="txt_item_tarefa">Tarefa do dia</string>
+    <!--Sub Titulo-->
+    <!--Texto do App-->
+    <string name="txt_titulo">Titulo</string>
+    <string name="txt_descricao">Descrição</string>
+    <string name="txt_data_hora">21/06/2021 18:00</string>
+    <string name="txt_data">Data</string>
+    <string name="txt_horario">Hora</string>
+    <!--texto botões-->
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_criar_tarefa">Criar Tarefa</string>
+    <!--texto menu-->
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="label_title">Ops! Você não possui \n nenhuma tarefa para hoje</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Lembrete Tarefa Santander"
+include ':app'
